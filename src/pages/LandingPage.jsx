@@ -9,7 +9,7 @@ const LandingPage = () => {
     };
 
     return (
-        <div className="h-screen flex flex-col justify-center items-center bg-blue-500 text-white">
+        <div className="h-screen flex flex-col justify-center items-center bg-blue-500 text-white font-serif">
           <h1 className="text-6xl animate-bounce">Hi! I'm Katherine Hernandez!</h1>
           <button
             onClick={handleClick}
